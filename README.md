@@ -6,10 +6,10 @@ This repository serves as a toolkit for various machine learning and deep learni
 
 The toolkit is organized as follows:
 
-#### ML-DL-TOOLKIT/
+### ML-DL-TOOLKIT/
 - `model_evaluation.py`: Scripts for evaluating model performance with various metrics
 
-#### ML-DL-TOOLKIT/MachineLearning/
+### ML-DL-TOOLKIT/MachineLearning/
 - `linear_regression.py`: Implementation of Linear, Lasso, and Ridge Regression models
 - `random_forest.py`: Random Forest algorithm for classification and regression tasks
 - `svm.py`: Support Vector Machine model for classification and regression tasks
